@@ -16,7 +16,7 @@ class App extends Component {
    
        <p>
             Edit <code>src/App.js</code> and save to reload.
-  yummmmmmmmmmmmmm        </p>
+  awwww        </p>
       
    
  <a
